@@ -1,0 +1,33 @@
+Starting up http-server, serving . through https
+
+http-server version: 14.1.1
+
+http-server settings: 
+CORS: true
+Cache: -1 seconds
+Connection Timeout: 120 seconds
+Directory Listings: visible
+AutoIndex: visible
+Serve GZIP Files: false
+Serve Brotli Files: false
+Default File Extension: none
+
+Available on:
+  https://192.168.1.84:3000
+  https://127.0.0.1:3000
+Hit CTRL-C to stop the server
+
+[2026-09-10T16:50:57.530Z]  "GET /commands.html?_host_Info=Outlook$Win32$16.02$es-ES$$$$0" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+[2026-09-10T16:50:57.563Z]  "GET /commands.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+[2026-09-10T16:50:57.735Z]  "GET /favicon.ico" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+[2026-09-10T16:50:57.737Z]  "GET /favicon.ico" Error (404): "Not found"
+[2026-09-10T16:55:18.267Z]  "GET /commands.html?_host_Info=Outlook$Win32$16.02$es-ES$$$$0" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+[2026-09-10T16:55:18.296Z]  "GET /commands.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+[2026-09-10T16:58:54.249Z]  "GET /commands.html?_host_Info=Outlook$Win32$16.02$es-ES$$$$0" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+[2026-09-10T16:58:54.264Z]  "GET /commands.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+[2026-09-10T17:00:11.871Z]  "GET /commands.html?_host_Info=Outlook$Win32$16.02$es-ES$$$$0" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+[2026-09-10T17:00:11.900Z]  "GET /commands.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+[2026-09-10T17:01:20.192Z]  "GET /commands.html?_host_Info=Outlook$Win32$16.02$es-ES$$$$0" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+[2026-09-10T17:01:20.208Z]  "GET /commands.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+[2026-09-10T17:04:34.133Z]  "GET /commands.html?_host_Info=Outlook$Win32$16.02$es-ES$$$$0" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+[2026-09-10T17:04:34.150Z]  "GET /commands.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
